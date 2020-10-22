@@ -2168,7 +2168,7 @@ input[type="radio"] + label:before {
   border-radius: 0.35em;
   border: solid 3px rgba(255, 255, 255, 0.5);
   color: #fff;
-  content: "View";
+  content: "View Video";
   display: inline-block;
   font-size: 0.8em;
   font-weight: 400;
@@ -2287,6 +2287,7 @@ dl {
 /* Icons */
 
 ul.icons {
+  margin-top: 1em;
   cursor: default;
   list-style: none;
   padding-left: 0;
